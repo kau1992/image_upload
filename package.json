@@ -1,12 +1,12 @@
 {
-  "name": "file-uploader",
+  "name": "file_uploader",
   "version": "1.0.0",
   "description": "An AJAX file uploader using JS and NodeJS",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Fady Makram",
+  "author": "Kaushik",
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.3",
